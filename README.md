@@ -1,7 +1,8 @@
 Imports from a Spotify account to rd.io
 =======================================
 
-Note that this only works with Spotify's default playlist naming scheme of ARTIST - ALBUM.
+- Note that this only works with Spotify's default playlist naming scheme of ARTIST - ALBUM.
+- Sometimes the script doesn't pick up all of your spotify playlists. Just run it multiple times, you don't get duplicates in rd.io.
 
 Instructions
 ------------
