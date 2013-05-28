@@ -1,0 +1,4 @@
+tmp/
+Gemfile.lock
+spotify_appkey.key
+credentials.rb
